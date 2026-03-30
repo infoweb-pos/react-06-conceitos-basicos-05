@@ -1,2 +1,14 @@
-# react-06-conceitos-basicos-05
-Notas de aula sobre conceitos básicos sobre Web App com React
+# POS 2026 - React - 05 - Conceitos básicos - 
+
+## Informações gerais
+
+- **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb da [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
+- **Professor**: [L A Minora](https://github.com/leonardo-minora/)
+- **Objetivo**: aprender sobre os conceitos básicos de
+  - [Renderização condicional](https://react.dev/learn/conditional-rendering)
+  - [Renderização de lista](https://react.dev/learn/rendering-lists)
+  - [State - atualizando usando o valor antigo](https://react.dev/learn/queueing-a-series-of-state-updates)
+  - [State como objeto - atualizando](https://react.dev/learn/updating-objects-in-state)
+  - [State como vetor - atualizando](https://react.dev/learn/updating-arrays-in-state)
+  
+## Aplicativo
