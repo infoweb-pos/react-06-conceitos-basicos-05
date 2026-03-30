@@ -7,8 +7,22 @@
 - **Objetivo**: aprender sobre os conceitos básicos de
   - [Renderização condicional](https://react.dev/learn/conditional-rendering)
   - [Renderização de lista](https://react.dev/learn/rendering-lists)
-  - [State - atualizando usando o valor antigo](https://react.dev/learn/queueing-a-series-of-state-updates)
-  - [State como objeto - atualizando](https://react.dev/learn/updating-objects-in-state)
-  - [State como vetor - atualizando](https://react.dev/learn/updating-arrays-in-state)
   
 ## Aplicativo
+
+Lista de produtos, disponível nesse repositório.
+
+```
+npx create-next-app@latest
+
+yarn dev
+```
+
+se quiser executar na máquina de vocês, executar abaixo
+
+```
+npm install -g yarn
+yarn install
+yarn dev
+
+```
