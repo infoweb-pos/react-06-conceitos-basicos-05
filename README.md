@@ -1,4 +1,4 @@
-# POS 2026 - React - 05 - Conceitos básicos - 
+# POS 2026 - React - 05 - Conceitos básicos - renderização condicional e listas
 
 ## Informações gerais
 
